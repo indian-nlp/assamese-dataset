@@ -12,6 +12,7 @@ A collection of various NLP datasets, mainly Indonesia-related languages. These 
   - [The C4 Multilingual Dataset](#the-c4-multilingual-dataset)
 - [Fine-tuning Datasets](#fine-tuning-datasets)
   - [Sundanese Twitter Dataset for Emotion Classification](#sundanese-twitter-dataset-for-emotion-classification)
+  - [Assamese Poem - কবিতা](#assamese-poem---কবিতা)
 - [To Be Added](#tba)
 
 ---
@@ -46,9 +47,17 @@ A collection of various NLP datasets, mainly Indonesia-related languages. These 
 
 # Fine-tuning Datasets
 
-## [Assamese  Sentiments Dataset\*](https://www.kaggle.com/datasets/ritikjain00/assamese-sentiments-dataset)
+## [Assamese Sentiments Dataset\*](https://www.kaggle.com/datasets/ritikjain00/assamese-sentiments-dataset)
 
 > Ritik Kumar Jain, from [Kaggle.com](https://www.kaggle.com/datasets/ritikjain00/assamese-sentiments-dataset)
+
+\*_external resource_
+
+---
+
+## [Assamese Poem - কবিতা\*](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
+
+> Sani Kamal, from [Kaggle.com](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
 
 \*_external resource_
 
