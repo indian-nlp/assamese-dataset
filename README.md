@@ -7,7 +7,8 @@ A collection of various NLP datasets, mainly Indonesia-related languages. These 
 # Table of Contents
 
 - [Pre-training Corpora](#pre-training-corpora)
-  - [Assamese Wikipedia v1](#javanese-imdb)
+  - [Assamese Wikipedia v1](#assamese-wikipedia-v1)
+  - [Assamese Wikipedia v2](#assamese-wikipedia-v2)
   - [CC-100 Monolingual](#cc-100-monolingual)
   - [The C4 Multilingual Dataset](#the-c4-multilingual-dataset)
 - [Fine-tuning Datasets](#fine-tuning-datasets)
@@ -19,9 +20,19 @@ A collection of various NLP datasets, mainly Indonesia-related languages. These 
 
 # Pre-training Corpora
 
-## [Assamese Wikipedia v1](https://github.com/w11wo/nlp-datasets/tree/main/javanese-wikipedia-v1)
+## [Assamese Wikipedia v1](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_10K)
 
 > Assamese Wikipedia documents from Wikidump from 2021. Collected on June 2024.
+
+- Assamese - 10k
+
+---
+
+## [Assamese Wikipedia v2](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K)
+
+> Assamese Wikipedia documents from Wikidump from 2021. Collected on June 2024.
+
+- Assamese - 100k
 
 ---
 
