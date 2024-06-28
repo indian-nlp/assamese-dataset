@@ -7,7 +7,7 @@
 <h3 align="center">Assamese Datasets</h3>
 
   <p align="center">
-    A collection of various NLP datasets, mainly Indonesia-related languages. These datasets are split into two: pre-training corpora and fine-tuning datasets.
+    A collection of various NLP datasets in Assamese. These datasets are split into two: pre-training corpora and fine-tuning datasets.
     <br />
     <a href="https://github.com/indian-nlp/assamese-dataset/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
