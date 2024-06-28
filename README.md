@@ -1,7 +1,7 @@
 
 <div align="center">
-  <a href="https://github.com/SAGAR-TAMANG/therapist-ai">
-    <img src="https://github.com/indian-nlp/assamese-dataset/tree/master/img/indian-nlp-pi.png" alt="Logo" height="50">
+  <a href="https://github.com/indian-nlp/assamese-dataset">
+    <img src="https://raw.githubusercontent.com/indian-nlp/assamese-dataset/master/img/indian-nlp-pi.png" alt="Logo" height="120">
   </a>
 
 <h3 align="center">Assamese Datasets</h3>
@@ -9,13 +9,13 @@
   <p align="center">
     A collection of various NLP datasets, mainly Indonesia-related languages. These datasets are split into two: pre-training corpora and fine-tuning datasets.
     <br />
-    <a href="https://github.com/SAGAR-TAMANG/therapist-ai/blob/main/README.md"><em>Releasing Soon to Public </em></a> 
+    <a href="https://github.com/indian-nlp/assamese-dataset/blob/main/README.md"><em>Releasing Soon to Public </em></a> 
     <br />
-    <a href="https://github.com/SAGAR-TAMANG/therapist-ai/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/indian-nlp/assamese-dataset/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SAGAR-TAMANG/therapist-ai/issues">Report Bug</a>
-    <a href="https://github.com/SAGAR-TAMANG/therapist-ai/issues">Request Feature</a>
+    <a href="https://github.com/indian-nlp/assamese-dataset/issues">Report Bug</a>
+    <a href="https://github.com/indian-nlp/assamese-dataset/issues">Request Feature</a>
   </p>
 </div>
 
