@@ -66,6 +66,18 @@ A collection of various NLP datasets, mainly Indonesia-related languages. These 
 
 ---
 
+## [Assamese Wikipedia Sentences Dataset\*](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K)
+
+> Sagar Tamang, cleaned and formatted into jsonl format. Assamese Wikipedia documents from Wikidump from 2021. Collected on June 2024.
+
+Non-chat | Non-commmands | Simple "text" atrs:
+- [Assamese Wikipedia Sentences TXT Dataset](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/asm_wikipedia_10k_sentences/assamese_cleaned.txt)
+- [Assamese Wikipedia Sentences JSONL Dataset](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/asm_wikipedia_10k_sentences/assamese_cleaned.jsonl)
+
+\*_external resource_
+
+---
+
 ## [Assamese Poem - কবিতা\*](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
 
 > Sani Kamal, from [Kaggle.com](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
