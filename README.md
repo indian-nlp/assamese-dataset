@@ -101,7 +101,7 @@ Non-chat | Non-commmands | Simple "text" atrs:
 
 > Each word is sent along with a prompted to the ChatGPT to generate valid dataset that describes that word, making it suitable for fine tuning.
 
-Non-chat | Non-commmands | JSONL "word" and "sentence":
+Chat | Non-commmands | JSONL "word" and "sentence":
 - [Assamese ChatGPT Generated Dataset for Fine Tuning Split 1/10](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1.jsonl)
 
 ---
