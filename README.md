@@ -93,6 +93,19 @@ Non-chat | Non-commmands | Simple "text" atrs:
 
 ---
 
+## [Assamese ChatGPT Generated Dataset for Fine Tuning\*](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1.jsonl)
+
+> Special thanks to [Prasurjan Pran Borah](https://x.com/iamppborah) for providing me the API for ChatGPT, through which this dataset was generated for the purpose of finetuning an LLM in Assamese.
+
+> The words are taken from [Assamese Wikipedia v2's Word](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/asm_wikipedia_2021_100K-words.txt) split in 1/10.
+
+> Each word is sent along with a prompted to the ChatGPT to generate valid dataset that describes that word, making it suitable for fine tuning.
+
+Non-chat | Non-commmands | JSONL "word" and "sentence":
+- [Assamese ChatGPT Generated Dataset for Fine Tuning Split 1/10](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1.jsonl)
+
+---
+
 ## [Assamese Poem - কবিতা\*](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
 
 > Sani Kamal, from [Kaggle.com](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
