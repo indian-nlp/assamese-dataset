@@ -85,7 +85,7 @@
 
 > Sagar Tamang, cleaned and formatted into jsonl format. Assamese Wikipedia documents from Wikidump from 2021. Collected on June 2024.
 
-Non-chat | Non-commmands | Simple "text" atrs:
+Non-chat | Non-commmands | TXT "text" atrs:
 - [Assamese Wikipedia Sentences TXT Dataset](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/asm_wikipedia_10k_sentences/assamese_cleaned.txt)
 - [Assamese Wikipedia Sentences JSONL Dataset](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/asm_wikipedia_10k_sentences/assamese_cleaned.jsonl)
 
@@ -101,8 +101,11 @@ Non-chat | Non-commmands | Simple "text" atrs:
 
 > Each word is sent along with a prompted to the ChatGPT to generate valid dataset that describes that word, making it suitable for fine tuning.
 
-Chat | Non-commmands | JSONL "word" and "sentence":
-- [Assamese ChatGPT Generated Dataset for Fine Tuning Split 1/10](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1.jsonl)
+Non-Chat | Non-commmands | JSONL "word" and "sentence":
+- [Assamese ChatGPT Generated Dataset for Fine Tuning Split 1/10 v1.0](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1.jsonl)
+
+Chat | Non-commmands | JSONL "text" attrs:
+- [Assamese ChatGPT Generated Dataset for Fine Tuning Split 1/10 v1.1](https://github.com/indian-nlp/assamese-dataset/tree/master/asm_wikipedia_2021_100K/output_100k_split_1_chat.jsonl)
 
 ---
 
