@@ -111,10 +111,10 @@ Chat | Non-commmands | JSONL "text" attrs:
 
 ## [Assamese CC-100 Multilingual Dataset for Finetuning\*](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100)
 
-Chat | Non-commmands | JSONL "text" attrs:
+Chat | Non-commmands | TXT "text" attrs:
 - [Assamese CC-100 Multilingual](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100/as.txt)
 
-Chat | Non-commmands | TXT "text" attrs:
+Chat | Non-commmands | JSONL "text" attrs:
 - [Assamese CC-100 Multilingual](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100/as.jsonl)
 
 ---
