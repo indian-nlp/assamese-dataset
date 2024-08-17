@@ -30,7 +30,7 @@
   - [Assamese Sentiments Dataset](#assamese-sentiments-dataset)
   - [Assamese Wikipedia Sentences](#assamese-wikipedia-sentences-dataset)
   - [Assamese ChatGPT Dataset](#assamese-chatgpt-generated-dataset-for-fine-tuning)
-  - [Assamese CC-100](#assamese-cc-100-multilingual-dataset-for-finetuning)
+  - [Assamese CC-100](#assamese-cc-100-multilingual-dataset-for-fine-tuning)
   - [Assamese Poem - কবিতা](#assamese-poem---কবিতা)
 - [To Be Added](#tba)
 
@@ -112,7 +112,7 @@ Chat | Non-commmands | JSONL "text" attrs:
 
 ---
 
-## [Assamese CC-100 Multilingual Dataset for Finetuning\*](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100)
+## [Assamese CC-100 Multilingual Dataset for Fine Tuning\*](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100)
 
 Chat | Non-commmands | TXT "text" attrs:
 - [Assamese CC-100 Multilingual](https://github.com/indian-nlp/assamese-dataset/tree/master/fine-tuning-datasets/cc-100/as.txt)
