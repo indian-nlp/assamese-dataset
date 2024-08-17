@@ -26,8 +26,11 @@
   - [Assamese Wikipedia v2](#assamese-wikipedia-v2)
   - [CC-100 Monolingual](#cc-100-monolingual)
   - [The C4 Multilingual Dataset](#the-c4-multilingual-dataset)
-- [Fine-tuning Datasets](#fine-tuning-datasets)
-  - [Sundanese Twitter Dataset for Emotion Classification](#sundanese-twitter-dataset-for-emotion-classification)
+- [Fine-tuning Corpora](#fine-tuning-corpora)
+  - [Assamese Sentiments Dataset](#assamese-sentiments-dataset)
+  - [Assamese Wikipedia Sentences](#assamese-wikipedia-sentences-dataset)
+  - [Assamese ChatGPT Dataset](#assamese-chatgpt-generated-dataset-for-fine-tuning)
+  - [Assamese CC-100](#assamese-cc-100-multilingual-dataset-for-finetuning)
   - [Assamese Poem - কবিতা](#assamese-poem---কবিতা)
 - [To Be Added](#tba)
 
@@ -71,7 +74,7 @@
 
 ---
 
-# Fine-tuning Datasets
+# Fine-tuning Corpora
 
 ## [Assamese Sentiments Dataset\*](https://www.kaggle.com/datasets/ritikjain00/assamese-sentiments-dataset)
 
