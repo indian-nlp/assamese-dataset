@@ -32,6 +32,7 @@
   - [Assamese ChatGPT Dataset](#assamese-chatgpt-generated-dataset-for-fine-tuning)
   - [Assamese CC-100](#assamese-cc-100-multilingual-dataset-for-fine-tuning)
   - [Assamese Poem - কবিতা](#assamese-poem---কবিতা)
+  - [Alpaca Yahama Cleaned Filtered](#alpaca-yahama-cleaned-filtered)
 - [To Be Added](#tba)
 
 ---
@@ -125,6 +126,14 @@ Chat | Non-commmands | JSONL "text" attrs:
 ## [Assamese Poem - কবিতা\*](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
 
 > Sani Kamal, from [Kaggle.com](https://www.kaggle.com/datasets/sanikamal/assamese-poem)
+
+\*_external resource_
+
+---
+
+## [Alpaca Yahama Cleaned Filtered\*](https://huggingface.co/datasets/Telugu-LLM-Labs/assamese_alpaca_yahma_cleaned_filtered)
+
+> Telugu-LLM-Labs, from [huggingface.com](https://huggingface.co/datasets/Telugu-LLM-Labs/assamese_alpaca_yahma_cleaned_filtered)
 
 \*_external resource_
 
